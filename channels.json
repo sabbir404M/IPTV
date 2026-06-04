@@ -4595,7 +4595,7 @@
     "name": "Sharjah TV",
     "logo": "https://www.lyngsat.com/logo/tv/ss/sharjah-tv-ae.png",
     "url": "https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8",
-    "category": "International",
+    "category": "Others",
     "country": "Iran",
     "language": "Persian"
   },
@@ -5507,7 +5507,7 @@
     "name": "Motori Tv",
     "logo": "https://i.imgur.com/NWXQKbl.png",
     "url": "https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8",
-    "category": "Automotive",
+    "category": "Others",
     "country": "Italy",
     "language": "Italian"
   },
@@ -9555,7 +9555,7 @@
     "name": "Motor Trend",
     "logo": "https://i.imgur.com/ipj2H0n.png",
     "url": "https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8",
-    "category": "Automotive",
+    "category": "Others",
     "country": "USA",
     "language": "English"
   },
